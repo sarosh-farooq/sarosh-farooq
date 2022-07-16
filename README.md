@@ -29,7 +29,7 @@
 - 🤔 I’m looking for help with Ant Design
 - 💬 Ask me about React & Mateiral UI
 - 📫 How to reach me: [@sarosh.faroq](mailto:sarosh.faroq@gmail.com)
-- 💻 My portfolio : [sarosh farooq](https://saroshfarooq.netlify.app/)
+- 💻 My portfolio : [Sarosh Farooq](https://saroshfarooq.netlify.app/)
 - ⚡ Fun fact: React is Not a Framework, But a JavaScript Library
 
 
