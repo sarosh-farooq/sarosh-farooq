@@ -24,11 +24,12 @@
   
 
 - 🔭 I’m React Developer
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on Next Js
-- 🤔 I’m looking for help with Material UI
-- 💬 Ask me about HTML and CSS
+- 🤔 I’m looking for help with Ant Design
+- 💬 Ask me about React & Mateiral UI
 - 📫 How to reach me: [@sarosh.faroq](mailto:sarosh.faroq@gmail.com)
+- 💻 My portfolio : [sarosh farooq](https://saroshfarooq.netlify.app/)
 - ⚡ Fun fact: React is Not a Framework, But a JavaScript Library
 
 
@@ -43,7 +44,8 @@
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 ![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js)
-![Material-ui](https://img.shields.io/badge/-materialUi-000000?style=flat&logo=material-ui)
+![Material-ui](https://img.shields.io/badge/Material%20UI-v5.8.6-yellow)
+![Tailwind](https://img.shields.io/badge/Tarilwind-v3.1.6-yellow)
 
 <br>
 <p align="center">
